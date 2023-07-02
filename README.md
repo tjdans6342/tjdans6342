@@ -32,6 +32,13 @@ I haven't done much in this fields. But, I'll study hard and post at here.
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
+<br>
+
+<h3><b> what I'm learning </b></h3>
+<p>
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+</p>
+
 
 <!--
 **tjdans6342/tjdans6342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
